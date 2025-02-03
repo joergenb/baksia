@@ -45,8 +45,4 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- ID-porten 
-- Maskinporten
-- Ansattporten
-- Skyporten
-- eIDAS
+I tillegg til produktene ovenfor, er teamet også ansvarlig for Skyporten og eIDAS noden som støtter innlogging på tvers av landegrenser i EU.
