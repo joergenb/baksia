@@ -35,9 +35,9 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for ID-porten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/3" url_text="Github">}}
-{{< team/product-item title="Roadmap for Maskinporten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/6" url_text="Github">}}
-{{< team/product-item title="Roadmap for Ansattporten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/38" url_text="Github">}}
+{{< team/product-item title="ID-porten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/3" url_text="Github">}}
+{{< team/product-item title="Maskinporten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/6" url_text="Github">}}
+{{< team/product-item title="Ansattporten" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/38" url_text="Github">}}
 
 {{< /team/products >}}
 
