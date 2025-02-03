@@ -24,7 +24,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1137512?v=4" name="Aamund Bremer" role="Arkitekt, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
   {{< team/github-profile url="" name="Magnus Lefdal" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="" name="Anders" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="" name="Anders Lietzen Holst" role="Utvikler, Leikanger" >}}
 
 
 {{< /team/members >}}
